@@ -1,4 +1,4 @@
-cordova-ionicv5-plugin-firebasex 
+cordova-ionicv5-firebase-x 
 
 
 ========================
@@ -19,7 +19,7 @@ Supported platforms: Android and iOS
 Install the plugin by:
 
 ```
-npm install cordova-ionicv5-plugin-firebasex
+npm install cordova-ionicv5-firebase-x
 ```
 
 

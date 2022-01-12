@@ -1,5 +1,5 @@
 {
-  "name": "cordova-ionicv5-plugin-firebasex",
+  "name": "cordova-ionicv5-firebase-x",
   "version": "1.0.2",
   "description": "Cordova plugin for Google Firebase based on https://github.com/dpa99c/cordova-plugin-firebasex with fixes for ionic v5",
   "types": "./types/index.d.ts",
