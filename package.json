@@ -1,6 +1,6 @@
 {
   "name": "cordova-ionicv5-plugin-firebasex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cordova plugin for Google Firebase based on https://github.com/dpa99c/cordova-plugin-firebasex with fixes for ionic v5",
   "types": "./types/index.d.ts",
   "author": {
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChiamaShawn/cordova-ionicv5-plugin-firebase"
+    "url": "https://github.com/ChiamaShawn/cordova-plugin-firebase"
   },
   "cordova": {
     "id": "cordova-ionicv5-plugin-firebase",
