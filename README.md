@@ -8,8 +8,6 @@ Brings push notifications, analytics, event tracking, crash reporting and more f
 
 Supported platforms: Android and iOS
 
-**IMPORTANT:** Before opening an issue against this plugin, please read [Reporting issues](#reporting-issues).
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
