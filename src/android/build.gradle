@@ -7,7 +7,6 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:3.4.1'
         classpath 'com.google.gms:google-services:4.3.3'
-        // classpath 'com.google.firebase:firebase-crashlytics-gradle:2.7.1'
     }
 }
 repositories {
@@ -17,23 +16,6 @@ repositories {
     }
 }
 
-// apply plugin: com.google.firebase.crashlytics.buildtools.gradle.CrashlyticsPlugin
-// android {
-//     buildTypes {
-//         debug {
-//             firebaseCrashlytics {
-//                 mappingFileUploadEnabled false
-//             }
-//         }
-//         release {
-//             firebaseCrashlytics {
-//                 nativeSymbolUploadEnabled true
-//                 unstrippedNativeLibsDir "obj/local"
-//                 strippedNativeLibsDir "build/intermediates/jniLibs/release"
-//             }
-//         }
-//     }
-// }
 
 cdvPluginPostBuildExtras.add({
     afterEvaluate {

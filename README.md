@@ -2,6 +2,7 @@ cordova-plugin-firebasex [![Latest Stable Version](https://img.shields.io/npm/v/
 ========================
 
 
+This fix is based on https://github.com/dpa99c/cordova-plugin-firebasex work.
 
 Brings push notifications, analytics, event tracking, crash reporting and more from Google Firebase to your Cordova project.
 
@@ -20,6 +21,7 @@ Install the plugin by:
 ```
 npm install cordova-ionicv5-plugin-firebasex
 ```
+
 
 Copy the following statements
 
